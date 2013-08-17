@@ -1,0 +1,10 @@
+MCHammer:
+  Hammer:
+    # Default 276 but all item-codes work.
+    ItemCode: 276 
+    # Default is MCHammer but you could change this to anything.
+    DisplayName: MCHammer
+    # Lore is the Lore of the MCHammer
+    Lore: The one and only MCHammer
+    # BroadcastMessage is the message that is sent if hit by MCHammer
+    BroadcastMessage: has been hit by MCHammer!!! Goodbye!!

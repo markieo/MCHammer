@@ -1,0 +1,7 @@
+name: MCHammer
+main: io.github.markieo.MCHammer.Main
+version: 0.1
+commands:
+  hammer:
+    description: This will give you the MCHammer.
+    usage: /hammer
